@@ -1,0 +1,2070 @@
+{
+    "total_songs": 1688,
+    "genre_frequency": [
+        [
+            "pop",
+            916
+        ],
+        [
+            "rap",
+            322
+        ],
+        [
+            "dance pop",
+            235
+        ],
+        [
+            "rock",
+            224
+        ],
+        [
+            "hip hop",
+            192
+        ],
+        [
+            "modern rock",
+            132
+        ],
+        [
+            "pop rap",
+            130
+        ],
+        [
+            "uk pop",
+            100
+        ],
+        [
+            "neo mellow",
+            95
+        ],
+        [
+            "classic rock",
+            92
+        ],
+        [
+            "trap",
+            89
+        ],
+        [
+            "permanent wave",
+            83
+        ],
+        [
+            "canadian pop",
+            77
+        ],
+        [
+            "atl hip hop",
+            73
+        ],
+        [
+            "melodic rap",
+            70
+        ],
+        [
+            "r&b",
+            64
+        ],
+        [
+            "pop rock",
+            62
+        ],
+        [
+            "singer-songwriter pop",
+            60
+        ],
+        [
+            "post-teen pop",
+            58
+        ],
+        [
+            "soft rock",
+            58
+        ],
+        [
+            "pov: indie",
+            56
+        ],
+        [
+            "edm",
+            48
+        ],
+        [
+            "pop dance",
+            46
+        ],
+        [
+            "neo soul",
+            45
+        ],
+        [
+            "urban contemporary",
+            44
+        ],
+        [
+            "chicago rap",
+            42
+        ],
+        [
+            "psychedelic rock",
+            42
+        ],
+        [
+            "southern hip hop",
+            41
+        ],
+        [
+            "new wave pop",
+            41
+        ],
+        [
+            "british invasion",
+            41
+        ],
+        [
+            "viral pop",
+            40
+        ],
+        [
+            "singer-songwriter",
+            40
+        ],
+        [
+            "album rock",
+            40
+        ],
+        [
+            "mellow gold",
+            39
+        ],
+        [
+            "merseybeat",
+            39
+        ],
+        [
+            "piano rock",
+            38
+        ],
+        [
+            "art pop",
+            32
+        ],
+        [
+            "alt z",
+            30
+        ],
+        [
+            "boy band",
+            28
+        ],
+        [
+            "alternative rock",
+            28
+        ],
+        [
+            "stomp and holler",
+            27
+        ],
+        [
+            "metropopolis",
+            25
+        ],
+        [
+            "talent show",
+            24
+        ],
+        [
+            "conscious hip hop",
+            24
+        ],
+        [
+            "movie tunes",
+            24
+        ],
+        [
+            "lilith",
+            24
+        ],
+        [
+            "",
+            23
+        ],
+        [
+            "soul",
+            23
+        ],
+        [
+            "melancholia",
+            23
+        ],
+        [
+            "gangster rap",
+            22
+        ],
+        [
+            "canadian hip hop",
+            22
+        ],
+        [
+            "indietronica",
+            21
+        ],
+        [
+            "uk dance",
+            21
+        ],
+        [
+            "modern alternative rock",
+            21
+        ],
+        [
+            "folk-pop",
+            20
+        ],
+        [
+            "new romantic",
+            20
+        ],
+        [
+            "canadian contemporary r&b",
+            19
+        ],
+        [
+            "glam rock",
+            19
+        ],
+        [
+            "post-grunge",
+            19
+        ],
+        [
+            "new wave",
+            19
+        ],
+        [
+            "lgbtq+ hip hop",
+            18
+        ],
+        [
+            "pop soul",
+            18
+        ],
+        [
+            "art rock",
+            18
+        ],
+        [
+            "miami hip hop",
+            17
+        ],
+        [
+            "slap house",
+            17
+        ],
+        [
+            "hip pop",
+            17
+        ],
+        [
+            "west coast rap",
+            17
+        ],
+        [
+            "electropop",
+            16
+        ],
+        [
+            "pop punk",
+            16
+        ],
+        [
+            "barbadian pop",
+            14
+        ],
+        [
+            "british soul",
+            14
+        ],
+        [
+            "hollywood",
+            14
+        ],
+        [
+            "yacht rock",
+            14
+        ],
+        [
+            "gen z singer-songwriter",
+            14
+        ],
+        [
+            "oxford indie",
+            14
+        ],
+        [
+            "progressive electro house",
+            13
+        ],
+        [
+            "electro house",
+            13
+        ],
+        [
+            "bedroom pop",
+            13
+        ],
+        [
+            "acoustic pop",
+            13
+        ],
+        [
+            "pop r&b",
+            12
+        ],
+        [
+            "synthpop",
+            12
+        ],
+        [
+            "dance rock",
+            12
+        ],
+        [
+            "dirty south rap",
+            12
+        ],
+        [
+            "hard rock",
+            12
+        ],
+        [
+            "disco",
+            12
+        ],
+        [
+            "show tunes",
+            12
+        ],
+        [
+            "alternative metal",
+            12
+        ],
+        [
+            "contemporary country",
+            11
+        ],
+        [
+            "adult standards",
+            11
+        ],
+        [
+            "ectofolk",
+            11
+        ],
+        [
+            "escape room",
+            11
+        ],
+        [
+            "east coast hip hop",
+            11
+        ],
+        [
+            "folk rock",
+            11
+        ],
+        [
+            "colombian pop",
+            11
+        ],
+        [
+            "europop",
+            11
+        ],
+        [
+            "indie soul",
+            11
+        ],
+        [
+            "indie poptimism",
+            10
+        ],
+        [
+            "dfw rap",
+            10
+        ],
+        [
+            "country",
+            10
+        ],
+        [
+            "detroit hip hop",
+            10
+        ],
+        [
+            "underground hip hop",
+            10
+        ],
+        [
+            "seattle hip hop",
+            10
+        ],
+        [
+            "motown",
+            10
+        ],
+        [
+            "candy pop",
+            10
+        ],
+        [
+            "brostep",
+            9
+        ],
+        [
+            "neon pop punk",
+            9
+        ],
+        [
+            "indie pop",
+            9
+        ],
+        [
+            "reggaeton",
+            9
+        ],
+        [
+            "urbano latino",
+            9
+        ],
+        [
+            "deep underground hip hop",
+            9
+        ],
+        [
+            "north carolina hip hop",
+            9
+        ],
+        [
+            "contemporary r&b",
+            9
+        ],
+        [
+            "funk",
+            9
+        ],
+        [
+            "rage rap",
+            9
+        ],
+        [
+            "reggae fusion",
+            8
+        ],
+        [
+            "emo rap",
+            8
+        ],
+        [
+            "house",
+            8
+        ],
+        [
+            "progressive house",
+            8
+        ],
+        [
+            "trap latino",
+            8
+        ],
+        [
+            "pop edm",
+            8
+        ],
+        [
+            "kentucky hip hop",
+            8
+        ],
+        [
+            "k-pop",
+            8
+        ],
+        [
+            "indie folk",
+            8
+        ],
+        [
+            "punk",
+            8
+        ],
+        [
+            "atl trap",
+            7
+        ],
+        [
+            "australian pop",
+            7
+        ],
+        [
+            "scandipop",
+            7
+        ],
+        [
+            "swedish pop",
+            7
+        ],
+        [
+            "garage rock",
+            7
+        ],
+        [
+            "indie rock",
+            7
+        ],
+        [
+            "girl group",
+            7
+        ],
+        [
+            "baroque pop",
+            7
+        ],
+        [
+            "folk",
+            7
+        ],
+        [
+            "broadway",
+            7
+        ],
+        [
+            "etherpop",
+            6
+        ],
+        [
+            "country road",
+            6
+        ],
+        [
+            "sad rap",
+            6
+        ],
+        [
+            "uk hip hop",
+            6
+        ],
+        [
+            "latin pop",
+            6
+        ],
+        [
+            "uk funky",
+            6
+        ],
+        [
+            "australian hip hop",
+            6
+        ],
+        [
+            "pittsburgh rap",
+            6
+        ],
+        [
+            "vocal jazz",
+            6
+        ],
+        [
+            "uk contemporary r&b",
+            6
+        ],
+        [
+            "queens hip hop",
+            6
+        ],
+        [
+            "trap queen",
+            6
+        ],
+        [
+            "canadian rock",
+            6
+        ],
+        [
+            "madchester",
+            6
+        ],
+        [
+            "electro",
+            6
+        ],
+        [
+            "filter house",
+            6
+        ],
+        [
+            "emo",
+            6
+        ],
+        [
+            "chinese viral pop",
+            6
+        ],
+        [
+            "quiet storm",
+            6
+        ],
+        [
+            "classic soul",
+            6
+        ],
+        [
+            "complextro",
+            5
+        ],
+        [
+            "german techno",
+            5
+        ],
+        [
+            "cali rap",
+            5
+        ],
+        [
+            "plugg",
+            5
+        ],
+        [
+            "gaming edm",
+            5
+        ],
+        [
+            "pluggnb",
+            5
+        ],
+        [
+            "new orleans rap",
+            5
+        ],
+        [
+            "tropical house",
+            5
+        ],
+        [
+            "big room",
+            5
+        ],
+        [
+            "la indie",
+            5
+        ],
+        [
+            "australian dance",
+            5
+        ],
+        [
+            "alternative r&b",
+            5
+        ],
+        [
+            "irish rock",
+            5
+        ],
+        [
+            "afrofuturism",
+            5
+        ],
+        [
+            "bubblegum pop",
+            5
+        ],
+        [
+            "rock-and-roll",
+            5
+        ],
+        [
+            "reggaeton colombiano",
+            5
+        ],
+        [
+            "nu metal",
+            5
+        ],
+        [
+            "old school atlanta hip hop",
+            5
+        ],
+        [
+            "funk rock",
+            5
+        ],
+        [
+            "synth funk",
+            5
+        ],
+        [
+            "uk post-punk",
+            5
+        ],
+        [
+            "celtic rock",
+            4
+        ],
+        [
+            "social media pop",
+            4
+        ],
+        [
+            "nz pop",
+            4
+        ],
+        [
+            "swedish electropop",
+            4
+        ],
+        [
+            "danish pop",
+            4
+        ],
+        [
+            "pixie",
+            4
+        ],
+        [
+            "indie pop rap",
+            4
+        ],
+        [
+            "brooklyn drill",
+            4
+        ],
+        [
+            "nyc rap",
+            4
+        ],
+        [
+            "dancehall",
+            4
+        ],
+        [
+            "heartland rock",
+            4
+        ],
+        [
+            "k-pop boy group",
+            4
+        ],
+        [
+            "new jersey rap",
+            4
+        ],
+        [
+            "classic country pop",
+            4
+        ],
+        [
+            "country dawn",
+            4
+        ],
+        [
+            "sunshine pop",
+            4
+        ],
+        [
+            "glam metal",
+            4
+        ],
+        [
+            "pop emo",
+            4
+        ],
+        [
+            "modern country rock",
+            4
+        ],
+        [
+            "eurodance",
+            4
+        ],
+        [
+            "philly rap",
+            4
+        ],
+        [
+            "southern rock",
+            4
+        ],
+        [
+            "rap metal",
+            4
+        ],
+        [
+            "modern folk rock",
+            4
+        ],
+        [
+            "chamber pop",
+            4
+        ],
+        [
+            "sheffield indie",
+            4
+        ],
+        [
+            "afrobeats",
+            4
+        ],
+        [
+            "antiviral pop",
+            4
+        ],
+        [
+            "pixel",
+            4
+        ],
+        [
+            "minneapolis sound",
+            4
+        ],
+        [
+            "classic oklahoma country",
+            4
+        ],
+        [
+            "moombahton",
+            3
+        ],
+        [
+            "sad lo-fi",
+            3
+        ],
+        [
+            "trap soul",
+            3
+        ],
+        [
+            "speedrun",
+            3
+        ],
+        [
+            "video game music",
+            3
+        ],
+        [
+            "meme rap",
+            3
+        ],
+        [
+            "st louis rap",
+            3
+        ],
+        [
+            "neo-synthpop",
+            3
+        ],
+        [
+            "electronic trap",
+            3
+        ],
+        [
+            "easy listening",
+            3
+        ],
+        [
+            "lounge",
+            3
+        ],
+        [
+            "harlem renaissance",
+            3
+        ],
+        [
+            "swing",
+            3
+        ],
+        [
+            "modern indie pop",
+            3
+        ],
+        [
+            "jazz pop",
+            3
+        ],
+        [
+            "afropop",
+            3
+        ],
+        [
+            "beatlesque",
+            3
+        ],
+        [
+            "crunk",
+            3
+        ],
+        [
+            "g funk",
+            3
+        ],
+        [
+            "modern power pop",
+            3
+        ],
+        [
+            "stomp pop",
+            3
+        ],
+        [
+            "uk americana",
+            3
+        ],
+        [
+            "country rock",
+            3
+        ],
+        [
+            "alternative hip hop",
+            3
+        ],
+        [
+            "sophisti-pop",
+            3
+        ],
+        [
+            "k-pop girl group",
+            3
+        ],
+        [
+            "nigerian pop",
+            3
+        ],
+        [
+            "drill",
+            3
+        ],
+        [
+            "uk alternative pop",
+            3
+        ],
+        [
+            "australian psych",
+            3
+        ],
+        [
+            "neo-psychedelic",
+            3
+        ],
+        [
+            "nashville singer-songwriter",
+            2
+        ],
+        [
+            "melodic dubstep",
+            2
+        ],
+        [
+            "deep talent show",
+            2
+        ],
+        [
+            "teen pop",
+            2
+        ],
+        [
+            "neo-singer-songwriter",
+            2
+        ],
+        [
+            "indie rockism",
+            2
+        ],
+        [
+            "puerto rican pop",
+            2
+        ],
+        [
+            "classic texas country",
+            2
+        ],
+        [
+            "canadian trap",
+            2
+        ],
+        [
+            "baton rouge rap",
+            2
+        ],
+        [
+            "rhode island rap",
+            2
+        ],
+        [
+            "blues rock",
+            2
+        ],
+        [
+            "modern blues rock",
+            2
+        ],
+        [
+            "punk blues",
+            2
+        ],
+        [
+            "shimmer pop",
+            2
+        ],
+        [
+            "irish singer-songwriter",
+            2
+        ],
+        [
+            "grunge",
+            2
+        ],
+        [
+            "canadian singer-songwriter",
+            2
+        ],
+        [
+            "classic canadian rock",
+            2
+        ],
+        [
+            "alternative dance",
+            2
+        ],
+        [
+            "australian electropop",
+            2
+        ],
+        [
+            "nyc pop",
+            2
+        ],
+        [
+            "korean pop",
+            2
+        ],
+        [
+            "anti-folk",
+            2
+        ],
+        [
+            "lo-fi",
+            2
+        ],
+        [
+            "brill building pop",
+            2
+        ],
+        [
+            "britpop",
+            2
+        ],
+        [
+            "dixieland",
+            2
+        ],
+        [
+            "jazz trumpet",
+            2
+        ],
+        [
+            "new orleans jazz",
+            2
+        ],
+        [
+            "memphis hip hop",
+            2
+        ],
+        [
+            "swedish synthpop",
+            2
+        ],
+        [
+            "jangle pop",
+            2
+        ],
+        [
+            "swamp rock",
+            2
+        ],
+        [
+            "seattle indie",
+            2
+        ],
+        [
+            "canadian indie",
+            2
+        ],
+        [
+            "mainland chinese pop",
+            2
+        ],
+        [
+            "c-pop",
+            2
+        ],
+        [
+            "mandopop",
+            2
+        ],
+        [
+            "taiwan pop",
+            2
+        ],
+        [
+            "zhongguo feng",
+            2
+        ],
+        [
+            "power pop",
+            2
+        ],
+        [
+            "meme",
+            2
+        ],
+        [
+            "classic uk pop",
+            2
+        ],
+        [
+            "rockabilly",
+            2
+        ],
+        [
+            "otacore",
+            2
+        ],
+        [
+            "chicago drill",
+            2
+        ],
+        [
+            "florida rap",
+            2
+        ],
+        [
+            "chill pop",
+            2
+        ],
+        [
+            "dutch edm",
+            2
+        ],
+        [
+            "azonto",
+            2
+        ],
+        [
+            "nigerian hip hop",
+            2
+        ],
+        [
+            "ohio hip hop",
+            2
+        ],
+        [
+            "symphonic rock",
+            2
+        ],
+        [
+            "women's music",
+            2
+        ],
+        [
+            "southern soul",
+            2
+        ],
+        [
+            "classic swedish pop",
+            2
+        ],
+        [
+            "jam band",
+            2
+        ],
+        [
+            "reggae",
+            2
+        ],
+        [
+            "outlaw country",
+            2
+        ],
+        [
+            "south carolina hip hop",
+            2
+        ],
+        [
+            "alternative pop rock",
+            2
+        ],
+        [
+            "virginia hip hop",
+            2
+        ],
+        [
+            "uk alternative hip hop",
+            2
+        ],
+        [
+            "pop quebecois",
+            1
+        ],
+        [
+            "black americana",
+            1
+        ],
+        [
+            "canadian electronic",
+            1
+        ],
+        [
+            "chillstep",
+            1
+        ],
+        [
+            "bubblegrunge",
+            1
+        ],
+        [
+            "virgin islands reggae",
+            1
+        ],
+        [
+            "bergen indie",
+            1
+        ],
+        [
+            "latin hip hop",
+            1
+        ],
+        [
+            "comedy rap",
+            1
+        ],
+        [
+            "rap conscient",
+            1
+        ],
+        [
+            "dark pop",
+            1
+        ],
+        [
+            "detroit rock",
+            1
+        ],
+        [
+            "gauze pop",
+            1
+        ],
+        [
+            "shiver pop",
+            1
+        ],
+        [
+            "experimental pop",
+            1
+        ],
+        [
+            "indie surf",
+            1
+        ],
+        [
+            "modern salsa",
+            1
+        ],
+        [
+            "salsa colombiana",
+            1
+        ],
+        [
+            "big band",
+            1
+        ],
+        [
+            "jazz",
+            1
+        ],
+        [
+            "jazz piano",
+            1
+        ],
+        [
+            "lo-fi chill",
+            1
+        ],
+        [
+            "cincinnati rap",
+            1
+        ],
+        [
+            "portland hip hop",
+            1
+        ],
+        [
+            "modern alternative pop",
+            1
+        ],
+        [
+            "bedroom soul",
+            1
+        ],
+        [
+            "dutch pop",
+            1
+        ],
+        [
+            "dutch house",
+            1
+        ],
+        [
+            "deep dance pop",
+            1
+        ],
+        [
+            "mississippi hip hop",
+            1
+        ],
+        [
+            "alaska indie",
+            1
+        ],
+        [
+            "german pop",
+            1
+        ],
+        [
+            "australian rock",
+            1
+        ],
+        [
+            "minnesota hip hop",
+            1
+        ],
+        [
+            "aussietronica",
+            1
+        ],
+        [
+            "new rave",
+            1
+        ],
+        [
+            "pastoral",
+            1
+        ],
+        [
+            "korean r&b",
+            1
+        ],
+        [
+            "african rock",
+            1
+        ],
+        [
+            "south african jazz",
+            1
+        ],
+        [
+            "south african pop",
+            1
+        ],
+        [
+            "south african pop dance",
+            1
+        ],
+        [
+            "jazz funk",
+            1
+        ],
+        [
+            "scottish singer-songwriter",
+            1
+        ],
+        [
+            "country pop",
+            1
+        ],
+        [
+            "italo dance",
+            1
+        ],
+        [
+            "houston rap",
+            1
+        ],
+        [
+            "indie rock italiano",
+            1
+        ],
+        [
+            "italian pop",
+            1
+        ],
+        [
+            "rap kreyol",
+            1
+        ],
+        [
+            "ottawa rap",
+            1
+        ],
+        [
+            "nashville indie",
+            1
+        ],
+        [
+            "chill r&b",
+            1
+        ],
+        [
+            "paisley underground",
+            1
+        ],
+        [
+            "utah indie",
+            1
+        ],
+        [
+            "washington indie",
+            1
+        ],
+        [
+            "classic garage rock",
+            1
+        ],
+        [
+            "modern country pop",
+            1
+        ],
+        [
+            "albuquerque indie",
+            1
+        ],
+        [
+            "portland indie",
+            1
+        ],
+        [
+            "german dance",
+            1
+        ],
+        [
+            "sped up",
+            1
+        ],
+        [
+            "canadian latin",
+            1
+        ],
+        [
+            "calypso",
+            1
+        ],
+        [
+            "rock keyboard",
+            1
+        ],
+        [
+            "athens indie",
+            1
+        ],
+        [
+            "bronx drill",
+            1
+        ],
+        [
+            "rap rock",
+            1
+        ],
+        [
+            "moldovan pop",
+            1
+        ],
+        [
+            "melodic metalcore",
+            1
+        ],
+        [
+            "metalcore",
+            1
+        ],
+        [
+            "uk metalcore",
+            1
+        ],
+        [
+            "chicago house",
+            1
+        ],
+        [
+            "cloud rap",
+            1
+        ],
+        [
+            "bedroom r&b",
+            1
+        ],
+        [
+            "new jersey underground rap",
+            1
+        ],
+        [
+            "dark trap",
+            1
+        ],
+        [
+            "indie hip hop",
+            1
+        ],
+        [
+            "epicore",
+            1
+        ],
+        [
+            "tin pan alley",
+            1
+        ],
+        [
+            "vintage jazz",
+            1
+        ],
+        [
+            "atlanta bass",
+            1
+        ],
+        [
+            "miami bass",
+            1
+        ],
+        [
+            "scottish rock",
+            1
+        ],
+        [
+            "german pop rock",
+            1
+        ],
+        [
+            "estonian pop",
+            1
+        ],
+        [
+            "p funk",
+            1
+        ],
+        [
+            "eau claire indie",
+            1
+        ],
+        [
+            "hawaiian hip hop",
+            1
+        ],
+        [
+            "northern soul",
+            1
+        ],
+        [
+            "birmingham grime",
+            1
+        ],
+        [
+            "grime",
+            1
+        ],
+        [
+            "instrumental grime",
+            1
+        ],
+        [
+            "viral trap",
+            1
+        ],
+        [
+            "christian indie",
+            1
+        ],
+        [
+            "nashville americana",
+            1
+        ],
+        [
+            "new americana",
+            1
+        ],
+        [
+            "alabama indie",
+            1
+        ],
+        [
+            "weirdcore",
+            1
+        ],
+        [
+            "irish pop",
+            1
+        ],
+        [
+            "socal pop punk",
+            1
+        ],
+        [
+            "indie r&b",
+            1
+        ],
+        [
+            "folk punk",
+            1
+        ],
+        [
+            "new weird america",
+            1
+        ],
+        [
+            "cosmic american",
+            1
+        ],
+        [
+            "roots rock",
+            1
+        ],
+        [
+            "brooklyn indie",
+            1
+        ],
+        [
+            "comic",
+            1
+        ],
+        [
+            "geek rock",
+            1
+        ],
+        [
+            "zolo",
+            1
+        ],
+        [
+            "german soundtrack",
+            1
+        ],
+        [
+            "orchestral soundtrack",
+            1
+        ],
+        [
+            "soundtrack",
+            1
+        ],
+        [
+            "baltimore indie",
+            1
+        ],
+        [
+            "dream pop",
+            1
+        ],
+        [
+            "dreamo",
+            1
+        ],
+        [
+            "modern dream pop",
+            1
+        ],
+        [
+            "scottish new wave",
+            1
+        ],
+        [
+            "musical advocacy",
+            1
+        ],
+        [
+            "cartoon",
+            1
+        ],
+        [
+            "roots reggae",
+            1
+        ],
+        [
+            "pop venezolano",
+            1
+        ],
+        [
+            "zambian hip hop",
+            1
+        ],
+        [
+            "waiata mo tamariki",
+            1
+        ],
+        [
+            "modern reggae",
+            1
+        ],
+        [
+            "birmingham metal",
+            1
+        ],
+        [
+            "metal",
+            1
+        ],
+        [
+            "stoner rock",
+            1
+        ],
+        [
+            "uk doom metal",
+            1
+        ],
+        [
+            "shoegaze",
+            1
+        ],
+        [
+            "icelandic indie",
+            1
+        ],
+        [
+            "icelandic rock",
+            1
+        ],
+        [
+            "dancehall queen",
+            1
+        ],
+        [
+            "mexican pop",
+            1
+        ],
+        [
+            "tejano",
+            1
+        ],
+        [
+            "psychedelic pop",
+            1
+        ],
+        [
+            "drumless hip hop",
+            1
+        ],
+        [
+            "experimental hip hop",
+            1
+        ],
+        [
+            "latin viral pop",
+            1
+        ],
+        [
+            "memphis soul",
+            1
+        ],
+        [
+            "progressive rock",
+            1
+        ],
+        [
+            "hi-nrg",
+            1
+        ],
+        [
+            "florida drill",
+            1
+        ],
+        [
+            "australian indie",
+            1
+        ],
+        [
+            "boston rock",
+            1
+        ],
+        [
+            "norwegian indie",
+            1
+        ],
+        [
+            "stutter house",
+            1
+        ],
+        [
+            "chill abstract hip hop",
+            1
+        ],
+        [
+            "indie quebecois",
+            1
+        ],
+        [
+            "melodic drill",
+            1
+        ],
+        [
+            "r&drill",
+            1
+        ],
+        [
+            "nu disco",
+            1
+        ],
+        [
+            "native american contemporary",
+            1
+        ],
+        [
+            "native american traditional",
+            1
+        ],
+        [
+            "arkansas country",
+            1
+        ],
+        [
+            "scam rap",
+            1
+        ],
+        [
+            "australian reggae fusion",
+            1
+        ],
+        [
+            "chicago indie",
+            1
+        ],
+        [
+            "post-disco",
+            1
+        ],
+        [
+            "pittsburgh rock",
+            1
+        ],
+        [
+            "funk metal",
+            1
+        ]
+    ],
+    "added_month_frequency": {
+        "2018-10": 1,
+        "2018-11": 2,
+        "2018-12": 1,
+        "2019-01": 2,
+        "2019-02": 1,
+        "2019-03": 2,
+        "2019-04": 6,
+        "2019-05": 4,
+        "2019-06": 1,
+        "2019-07": 5,
+        "2019-09": 1,
+        "2019-10": 1,
+        "2019-11": 2,
+        "2019-12": 3,
+        "2020-01": 2,
+        "2020-02": 5,
+        "2020-05": 1,
+        "2020-09": 1,
+        "2020-12": 11,
+        "2021-01": 1,
+        "2021-03": 1,
+        "2021-04": 1,
+        "2021-05": 1,
+        "2021-06": 8,
+        "2021-07": 40,
+        "2021-09": 14,
+        "2021-10": 38,
+        "2021-11": 34,
+        "2021-12": 25,
+        "2022-01": 10,
+        "2022-02": 12,
+        "2022-03": 17,
+        "2022-04": 58,
+        "2022-05": 23,
+        "2022-06": 46,
+        "2022-07": 32,
+        "2022-08": 14,
+        "2022-09": 11,
+        "2022-10": 72,
+        "2022-11": 102,
+        "2022-12": 62,
+        "2023-01": 37,
+        "2023-02": 44,
+        "2023-03": 52,
+        "2023-04": 65,
+        "2023-05": 51,
+        "2023-06": 58,
+        "2023-07": 69,
+        "2023-08": 31,
+        "2023-09": 36,
+        "2023-10": 46,
+        "2023-11": 28,
+        "2023-12": 21,
+        "2024-01": 28,
+        "2024-02": 40,
+        "2024-03": 68,
+        "2024-04": 122,
+        "2024-05": 70,
+        "2024-06": 93,
+        "2024-07": 51,
+        "2024-08": 4
+    },
+    "explicit_songs": 373,
+    "popularity": [
+        64,
+        5,
+        15,
+        38,
+        54,
+        117,
+        363,
+        661,
+        352,
+        19
+    ],
+    "danceability": [
+        0,
+        3,
+        29,
+        104,
+        186,
+        378,
+        436,
+        383,
+        134,
+        35
+    ],
+    "energy": [
+        4,
+        25,
+        66,
+        126,
+        192,
+        286,
+        327,
+        346,
+        238,
+        78
+    ],
+    "key": [
+        241,
+        186,
+        157,
+        46,
+        140,
+        166,
+        112,
+        167,
+        108,
+        130,
+        101,
+        134
+    ],
+    "loudness": [
+        0,
+        1484,
+        202,
+        2,
+        0,
+        0
+    ],
+    "speechiness": [
+        1373,
+        177,
+        80,
+        43,
+        8,
+        5,
+        1,
+        1,
+        0,
+        0
+    ],
+    "acousticness": [
+        728,
+        248,
+        163,
+        126,
+        84,
+        77,
+        76,
+        87,
+        65,
+        34
+    ],
+    "instrumentalness": [
+        1642,
+        25,
+        6,
+        4,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2
+    ],
+    "liveness": [
+        548,
+        728,
+        168,
+        150,
+        29,
+        26,
+        22,
+        10,
+        6,
+        1
+    ],
+    "valence": [
+        39,
+        160,
+        196,
+        222,
+        283,
+        225,
+        178,
+        170,
+        144,
+        71
+    ],
+    "time_signatures": [
+        76,
+        1590,
+        13,
+        9,
+        0
+    ],
+    "duration_distribution": [
+        28,
+        285,
+        842,
+        401,
+        98,
+        17,
+        8,
+        3,
+        5,
+        1
+    ],
+    "tempo_distribution": [
+        56,
+        232,
+        340,
+        369,
+        294,
+        170,
+        133,
+        76,
+        12,
+        6
+    ]
+}
