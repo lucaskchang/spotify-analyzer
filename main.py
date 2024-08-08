@@ -16,6 +16,7 @@ instrumentalness = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 liveness = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 valence = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 genre_frequency = {}
+genre_frequency_output = {}
 added_month_frequency = {}
 explicit_songs = 0
 durations =  []
@@ -59,6 +60,8 @@ for song in songs:
 genre_frequency = sorted(genre_frequency.items(), key=lambda x: x[1], reverse=True)
 for genre in genre_frequency[:10]:
     print(f'{genre[0]}: {genre[1]}')
+for genre in genre_frequency:
+    genre_frequency_output[genre[0]] = genre[1]
 
 # explicit song percentage
 print(f'{explicit_songs / total_songs * 100:.2f}% of songs are explicit')
@@ -140,6 +143,6 @@ for i, tempo_score in enumerate(tempo_distribution):
     print(f'{slowest_tempo + i * tenth_length:.2f}-{slowest_tempo + (i + 1) * tenth_length:.2f}: {tempo_score / total_songs * 100:.2f}%')
 
 
-output = {'total_songs': total_songs, 'genre_frequency': genre_frequency, 'added_month_frequency': added_month_frequency, 'explicit_songs': explicit_songs, 'popularity': popularity, 'danceability': danceability, 'energy': energy, 'key': Key, 'loudness': loudness, 'speechiness': speechiness, 'acousticness': acousticness, 'instrumentalness': instrumentalness, 'liveness': liveness, 'valence': valence, 'time_signatures': time_signatures, 'duration_distribution': duration_distribution, 'tempo_distribution': tempo_distribution}
+output = {'total_songs': total_songs, 'genre_frequency': genre_frequency_output, 'added_month_frequency': added_month_frequency, 'explicit_songs': explicit_songs, 'popularity': popularity, 'danceability': danceability, 'energy': energy, 'key': Key, 'loudness': loudness, 'speechiness': speechiness, 'acousticness': acousticness, 'instrumentalness': instrumentalness, 'liveness': liveness, 'valence': valence, 'time_signatures': time_signatures, 'duration_distribution': duration_distribution, 'tempo_distribution': tempo_distribution}
 with open('output.json', 'w') as f:
     json.dump(output, f, indent=4)
